@@ -28,17 +28,17 @@ Run the script in any folder with Python 3:
 ```bash
 python create_bioinfo_folders.py
 
-🌱 Why This Exists
+##🌱 Why This Exists
 I’m transitioning from a wet-lab science background (PhD in Plant Biotechnology) into bioinformatics and data science. This was my first automation script to keep my learning organized — and now it lives here as a public repo on my journey! ✨
 
-🚀 Contents
+##🚀 Contents
 create_bioinfo_folders.py — the automation script
 
 notebooks/hello_bioinfo.ipynb — test notebook
 
 Placeholder files to ensure Git tracks empty folders
 
-🧠 What I Learned
+##🧠 What I Learned
 os.makedirs() for recursive folder creation
 
 Recursion with nested dictionaries
